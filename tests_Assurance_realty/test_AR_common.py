@@ -20,7 +20,7 @@ def test_Pages_Lassie(rest):
    pprint([rest.get_Lassie_object(url)for url in urls])
 
 
-def testAssure_Links_load(app,rest):
+def testAssure_Links_load(bmp,rest):
     doc = rest.get_data(htaccess + dev).text
     links = rest.find_(in_=doc, item='a::attr(href)').getall()
     anchors = app.assure.filtering_links_for_Internal_and_external(links,dev)
@@ -30,8 +30,8 @@ def testAssure_Links_load(app,rest):
         inner_links = rest.find_(in_=inner, item='a::attr(href)').getall()
         print('Page : '+page)
         pprint(inner_links)
-        app.open(dev_url)
-        app.fullpage_screenshot('{}.png'.format(app.driver.title),scroll_delay=1)
+        bmp.open(dev_url)
+        bmp.fullpage_screenshot('{}.png'.format(app.driver.title),scroll_delay=1)
 
 
 def test_Pages(rest):

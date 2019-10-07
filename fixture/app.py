@@ -28,15 +28,12 @@ from fixture.bmp import ProxyManager
 from fixture.file_manager import FileManager
 from model.assur import Assurance
 from model.fast_guard import FGS
-from model.rare_model.animal import Animal
+
 from model.burganic import Burganic
 from model.efl import EFL
-from model.rare_model.genetify import Genetify
-from model.rare_model.gracie import GB
-from model.rare_model.morrocana import Mng
+
 from model.regency import RSS
-from model.smashed_media import SmashedMedia
-from model.rare_model.specmac import Spec
+
 from model.wbec import Wbec
 from model.wpcf7 import ContactForm7
 from docx import Document
@@ -63,11 +60,7 @@ class App:
         self.screen = Screenshot_Clipping.Screenshot()
         self.contact = ContactForm7(self)
         self.morrocana = Mng(self)
-        self.smashed = SmashedMedia(self)
-        self.gracie = GB(self)
-        self.genetify = Genetify(self)
-        self.animal = Animal(self)
-        self.spec = Spec(self)
+
         self.wbec = Wbec(self)
         self.efl = EFL(self)
         self.burger = Burganic(self)

@@ -2,7 +2,7 @@ import pytest
 
 
 from fixture.app import App, Emulator, Headless, MobProxy
-from fixture.bmp import ProxyManager
+
 from fixture.crawler import Crawler
 
 from fixture.gmail import Inbox

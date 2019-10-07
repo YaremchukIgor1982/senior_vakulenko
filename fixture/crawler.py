@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 
-from model.smashed_media import SmashedMedia
+
 
 
 class Crawler():

@@ -2,11 +2,11 @@ from pprint import pprint
 
 from parsel import Selector
 
-from test_JL_landing import htaccess
 
-dev = 'efl-dev.smashedmedia.guru/about'
+
+dev = 'https://endlessfrontierlabs.com/about/'
 def test_mentors(rest):
-   page=  rest.get_data(htaccess + dev).text
+   page=  rest.get_data(dev).text
    sel = Selector(text=page)
    item = sel.css(".flickity-slider").css(".cell").getall()
    for i in item:
