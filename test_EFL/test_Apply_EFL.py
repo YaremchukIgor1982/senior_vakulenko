@@ -61,51 +61,51 @@ def test_Apply_Now_Sign_Up_User(app):
 
     time.sleep(20)
 
-# def test_Apply_Now_Data_After_Send_by_New_User(app):
-#     time.sleep(5)
-#     for i in range(1, 10):
-#         pprint([app.efl.labels_info(l) for l in app.efl.labels()])
-#         if i != 10:
-#             name = app.func_name()
-#             app.catch_screen('efl', name)
-#             app.efl.button_Next().click()
-#
-#
-# def test_Login_User_on_Apply_Now(app):
-#     app.open(dev)
-#     app.efl.menu_go_to('Apply Now')
-#     app.driver.find_element_by_css_selector('.lrm-register').click()
-#     app.efl.login_tab().click()
-#     app.efl.logIn(dev_user)
-#     time.sleep(10)
-#     for i in range(1, 10):
-#         pprint([app.efl.labels_info(l) for l in app.efl.labels()])
-#         if i != 10:
-#             name = app.func_name()
-#             app.catch_screen('efl', name)
-#             app.efl.button_Next().click()
-#
-# def test_Apply_Now_Required_fields_and_Send_on_last_step(app):
-#     app.open(dev)
-#     app.efl.menu_go_to('Apply Now')
-#     app.driver.find_element_by_css_selector('.lrm-register').click()
-#     app.efl.sign_up()
-#     time.sleep(6)
-#     for i in range(10):
-#         step = 'apply_' + str(i + 1) + '_step'
-#         if step == 'apply_10_step':
-#             getattr(app.efl, step)()
-#             app.efl.button_Save().click()
-#         elif step == 'apply_6_step' or step == 'apply_8_step':
-#             getattr(app.efl, step)()
-#             app.efl.button_Next().click()
-#         else:
-#             time.sleep(5)
-#             app.efl.button_Next().click()
-#             alerts = app.driver.find_elements_by_css_selector('.wpcf7-not-valid-tip')
-#             for a in alerts:
-#                 print(a.text," ","Field class ",a.find_element_by_xpath('..').get_attribute('class'))
-#             getattr(app.efl, step)()
-#             app.efl.button_Next().click()
-#
-#
+def test_Apply_Now_Data_After_Send_by_New_User(app):
+    time.sleep(5)
+    for i in range(1, 10):
+        pprint([app.efl.labels_info(l) for l in app.efl.labels()])
+        if i != 10:
+            name = app.func_name()
+            app.catch_screen('efl', name)
+            app.efl.button_Next().click()
+
+
+def test_Login_User_on_Apply_Now(app):
+    app.open(dev)
+    app.efl.menu_go_to('Apply Now')
+    app.driver.find_element_by_css_selector('.lrm-register').click()
+    app.efl.login_tab().click()
+    app.efl.logIn(dev_user)
+    time.sleep(10)
+    for i in range(1, 10):
+        pprint([app.efl.labels_info(l) for l in app.efl.labels()])
+        if i != 10:
+            name = app.func_name()
+            app.catch_screen('efl', name)
+            app.efl.button_Next().click()
+
+def test_Apply_Now_Required_fields_and_Send_on_last_step(app):
+    app.open(dev)
+    app.efl.menu_go_to('Apply Now')
+    app.driver.find_element_by_css_selector('.lrm-register').click()
+    app.efl.sign_up()
+    time.sleep(6)
+    for i in range(10):
+        step = 'apply_' + str(i + 1) + '_step'
+        if step == 'apply_10_step':
+            getattr(app.efl, step)()
+            app.efl.button_Save().click()
+        elif step == 'apply_6_step' or step == 'apply_8_step':
+            getattr(app.efl, step)()
+            app.efl.button_Next().click()
+        else:
+            time.sleep(5)
+            app.efl.button_Next().click()
+            alerts = app.driver.find_elements_by_css_selector('.wpcf7-not-valid-tip')
+            for a in alerts:
+                print(a.text," ","Field class ",a.find_element_by_xpath('..').get_attribute('class'))
+            getattr(app.efl, step)()
+            app.efl.button_Next().click()
+
+

@@ -5,7 +5,7 @@ import sys
 import time
 import numpy
 
-from screen_recorder_sdk import screen_recorder
+
 from faker import Faker
 
 from data.app_data import htaccess
