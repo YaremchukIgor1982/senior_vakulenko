@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.6" />
+            <item index="2" class="java.lang.String" itemvalue="3.7" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.get" />
+          <option value="selenium.webdriver.chrome.webdriver.Remote" />
+          <option value="sys._getframe.f_code" />
+          <option value="tests_Burganic.test_UI.cStringIO" />
+          <option value="cv2.imread" />
+          <option value="test_RSS.test_Regency_Api.blogposts" />
+          <option value="tests_Perfomance.test_HAR.PAGE_ID" />
+          <option value="lassie.core.Lassie.all_images" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/data/smashed/BrandIdentity.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/CRM.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/CRO.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Content Development(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Digital Strategy Development.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/DigitalPR&amp;Outreach.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Display Banners.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Email Marketing.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Google Shopping Ads.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/LocalListings.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/LocalSEO.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Mobile Apps.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Retargeting.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/SEO.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Search Ads(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Social Media Ads.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/Social Media Management.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/YouTube Advertising.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/YouTube Channel Management.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/smashed/mng_links.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_Draft/test_Bacon.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_Draft/test_bmp.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests_RARE/tests_GB/test_GB_global.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests_RARE/tests_MNG/test_MNG_meta.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/tests_RARE/tests_SPEC_MAN/test_Smoke.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests_RARE/tests_SPEC_MAN/test_Spec_Our_Mission.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice/fixture/gmail.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

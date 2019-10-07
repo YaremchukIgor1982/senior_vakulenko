@@ -1,0 +1,15 @@
+smash_dev_server=[
+'nwf.smashedmedia.guru/',
+'assurancer.smashedmedia.guru',
+'regency.smashedmedia.guru',
+'fgs.smashedmedia.guru',
+'oemwheels.smashedmedia.guru',
+'burganic.smashedmedia.guru',
+'sc.smashedmedia.guru',
+'wbec.smashedmedia.guru',
+'efl-dev.smashedmedia.guru',
+'vib.smashedmedia.guru',
+'nudo.smashedmedia.guru',
+'yacht.smashedmedia.guru',
+'smashedmedia.guru'
+]
