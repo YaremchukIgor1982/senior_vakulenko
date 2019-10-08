@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf401dc6-cb79-42ae-b1be-bf3da90cdb47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FastGuardURLRedirects.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Fast_redirects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_IOS_Emulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_appium_ANdroid_Emulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_appium_browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fixture/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixture/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_EFL/test_EFL_About.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_EFL/test_EFL_About.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_EFL/bmp.log" beforeDir="false" afterPath="$PROJECT_DIR$/test_EFL/bmp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_EFL/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/test_EFL/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_EFL/test_EFL_LInks_goes_through.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_EFL/test_EFL_LInks_goes_through.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +34,7 @@
           <entry key="log" value="11" />
           <entry key="md" value="1" />
           <entry key="png" value="257" />
-          <entry key="py" value="1178" />
+          <entry key="py" value="1191" />
           <entry key="pyi" value="2" />
           <entry key="txt" value="9" />
         </counts>
@@ -42,7 +48,7 @@
           <entry key="Log" value="6" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="1178" />
+          <entry key="Python" value="1191" />
           <entry key="PythonStub" value="2" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -50,23 +56,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="10" />
-          <entry key="dummy" value="386" />
+          <entry key="dummy" value="404" />
           <entry key="json" value="9" />
-          <entry key="py" value="138129" />
+          <entry key="py" value="139185" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="9" />
-          <entry key="PLAIN_TEXT" value="410" />
-          <entry key="Python" value="138139" />
+          <entry key="PLAIN_TEXT" value="428" />
+          <entry key="Python" value="139195" />
           <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="80" />
+          <entry key="project.closed" value="81" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="11" />
           <entry key="project.open.time.11" value="18" />
@@ -75,7 +81,7 @@
           <entry key="project.open.time.14" value="25" />
           <entry key="project.open.time.15" value="26" />
           <entry key="project.open.time.16" value="20" />
-          <entry key="project.open.time.17" value="17" />
+          <entry key="project.open.time.17" value="18" />
           <entry key="project.open.time.18" value="13" />
           <entry key="project.open.time.19" value="16" />
           <entry key="project.open.time.2" value="3" />
@@ -109,8 +115,8 @@
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.8" value="8" />
-          <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="289" />
+          <entry key="project.open.time.9" value="10" />
+          <entry key="project.opened" value="291" />
         </counts>
       </usages-collector>
     </session>
@@ -118,22 +124,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_LInks_goes_through.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_About.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -142,31 +136,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_ALL_Dev_check.py">
+        <entry file="file://$PROJECT_DIR$/practise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fixture/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py">
+        <entry file="file://$PROJECT_DIR$/test_appium_browser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -175,14 +157,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
+        <entry file="file://$PROJECT_DIR$/test_appium_ANdroid_Emulator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="289">
+              <caret line="17" column="45" selection-start-line="5" selection-end-line="17" selection-end-column="46" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1570457971892" expanded="true" signature="1391:1396" ph="..." />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_EFL/test_Mentors_parcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_EFL/test_New_mentors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_RSS/test_Redirects_RSS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="18" selection-start-line="6" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_Fast_redirects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1570540910644" expanded="true" signature="615:887" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/bmp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -226,8 +273,8 @@
       <find>http</find>
       <find>def</find>
       <find>@</find>
-      <find>Zach</find>
       <find>Nikki</find>
+      <find>Zach</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,14 +284,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/test_dealer_Rss.py" />
-        <option value="$PROJECT_DIR$/test_RSS/test_dealer_Rss.py" />
-        <option value="$PROJECT_DIR$/test_ALL_Dev_check.py" />
-        <option value="$PROJECT_DIR$/test_RSS/meta_RSS.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/castro/__init__.py" />
-        <option value="$PROJECT_DIR$/test_RSS/test_reports.py" />
-        <option value="$PROJECT_DIR$/from_excel.py" />
-        <option value="$PROJECT_DIR$/test_RSS/test_meta_RSS.py" />
         <option value="$PROJECT_DIR$/test_RSS/test_Regency_Api.py" />
         <option value="$PROJECT_DIR$/test_EFL/test_Mentors_parse.py" />
         <option value="$PROJECT_DIR$/parcel.py" />
@@ -286,16 +325,24 @@
         <option value="$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py" />
         <option value="$PROJECT_DIR$/test_EFL/test_EFL_About.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
-        <option value="$PROJECT_DIR$/fixture/app.py" />
         <option value="$PROJECT_DIR$/fixture/crawler.py" />
+        <option value="$PROJECT_DIR$/mobilenum.py" />
+        <option value="$PROJECT_DIR$/practise.py" />
+        <option value="$PROJECT_DIR$/test_appium.py" />
+        <option value="$PROJECT_DIR$/test_appium_Emulator.py" />
+        <option value="$PROJECT_DIR$/test_IOS_Emulator.py" />
+        <option value="$PROJECT_DIR$/test_appium_browser.py" />
+        <option value="$PROJECT_DIR$/test_appium_ANdroid_Emulator.py" />
+        <option value="$PROJECT_DIR$/fixture/app.py" />
+        <option value="$PROJECT_DIR$/test_Fast_redirects.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1870" />
-    <option name="y" value="-118" />
-    <option name="width" value="2420" />
-    <option name="height" value="1204" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1910" />
+    <option name="y" value="-113" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -323,6 +370,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,38 +379,11 @@
               <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scum" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scum" type="462c0819:PsiDirectoryNode" />
-              <item name="fixture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scum" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scum" type="462c0819:PsiDirectoryNode" />
-              <item name="test_Draft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scum" type="462c0819:PsiDirectoryNode" />
-              <item name="test_EFL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scum" type="462c0819:PsiDirectoryNode" />
-              <item name="tests_Assurance_realty" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="NBKnowledgePane" />
-      <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,16 +392,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\Scum" />
-      <recent name="C:\Users\Administrator\PycharmProjects\Scum\fixture" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\PycharmProjects\Scum" />
       <recent name="C:\Users\Administrator\PycharmProjects\Scum\test_Draft" />
       <recent name="C:\Users\Administrator\PycharmProjects\Scum\tests_RARE" />
       <recent name="C:\Users\Administrator\PycharmProjects\Scum\test_RSS" />
       <recent name="C:\Users\Administrator\PycharmProjects\Scum\test_EFL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\Scum" />
+      <recent name="C:\Users\Administrator\PycharmProjects\Scum\fixture" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -394,50 +416,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_EFL_About.py">
-    <configuration name="pytest in test_ALL_Dev_check.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_Fast_redirects.py">
+    <configuration name="test_IOS_Emulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_ALL_Dev_check.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_AR_common.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Scum" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_Assurance_realty" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_EFL_About.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Scum" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_EFL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_EFL/test_EFL_About.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_IOS_Emulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_EFL_LInks_goes_through.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -455,35 +453,65 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_Get_Pages_Full_screens.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_Fast_redirects.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Scum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_RSS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_RSS/test_Get_Pages_Full_screens.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Fast_redirects.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_appium_ANdroid_Emulator.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Scum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_appium_ANdroid_Emulator.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_appium_browser.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Scum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_appium_browser.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest in test_EFL_LInks_goes_through.py" />
-      <item itemvalue="Python tests.pytest in test_Get_Pages_Full_screens.py" />
-      <item itemvalue="Python tests.pytest in test_AR_common.py" />
-      <item itemvalue="Python tests.pytest in test_ALL_Dev_check.py" />
-      <item itemvalue="Python tests.pytest in test_EFL_About.py" />
+      <item itemvalue="Python tests.pytest in test_appium_browser.py" />
+      <item itemvalue="Python tests.pytest in test_appium_ANdroid_Emulator.py" />
+      <item itemvalue="Python.test_IOS_Emulator" />
+      <item itemvalue="Python tests.pytest in test_Fast_redirects.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_EFL_About.py" />
-        <item itemvalue="Python tests.pytest in test_ALL_Dev_check.py" />
-        <item itemvalue="Python tests.pytest in test_AR_common.py" />
+        <item itemvalue="Python tests.pytest in test_Fast_redirects.py" />
+        <item itemvalue="Python tests.pytest in test_appium_browser.py" />
+        <item itemvalue="Python tests.pytest in test_appium_ANdroid_Emulator.py" />
+        <item itemvalue="Python.test_IOS_Emulator" />
         <item itemvalue="Python tests.pytest in test_EFL_LInks_goes_through.py" />
-        <item itemvalue="Python tests.pytest in test_Get_Pages_Full_screens.py" />
       </list>
     </recent_temporary>
   </component>
@@ -501,35 +529,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_EFL_LInks_goes_through_py - 2019.10.07 at 14h 00m 28s.xml">
-      <configuration name="pytest in test_EFL_LInks_goes_through.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 15h 37m 53s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_AR_common_py - 2019.10.07 at 14h 29m 55s.xml">
-      <configuration name="pytest in test_AR_common.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 15h 39m 47s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_AR_common_py - 2019.10.07 at 14h 31m 53s.xml">
-      <configuration name="pytest in test_AR_common.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 15h 44m 45s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_ALL_Dev_check_py - 2019.10.07 at 15h 11m 34s.xml">
-      <configuration name="pytest in test_ALL_Dev_check.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 15h 45m 55s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 18m 13s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 15h 46m 36s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 19m 35s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 16h 10m 49s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 20m 51s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 16h 12m 45s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 21m 11s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 16h 15m 50s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 26m 09s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 16h 19m 30s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_EFL_About_py - 2019.10.07 at 17h 26m 56s.xml">
-      <configuration name="pytest in test_EFL_About.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_Fast_redirects_py - 2019.10.08 at 16h 24m 16s.xml">
+      <configuration name="pytest in test_Fast_redirects.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -552,10 +580,10 @@
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.60818714" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="1.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.6935484" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.93695015" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.71078974" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32814237" />
       <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32925472" />
       <window_info anchor="bottom" id="Pylint" order="11" weight="0.32925472" />
@@ -654,6 +682,11 @@
           <line>24</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_Fast_redirects.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -661,38 +694,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests_NWF/response.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests_NWF/test_UI_NWF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/burganic.py" />
-    <entry file="file://$PROJECT_DIR$/data/users_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="73" selection-start-column="73" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/wpcf7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/data_rare/spec.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/data_rare/users_data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras-retinanet/images/coco2.png" />
     <entry file="file://$PROJECT_DIR$/keras-retinanet/images/coco1.png" />
     <entry file="file://$PROJECT_DIR$/keras-retinanet/ISSUE_TEMPLATE.md" />
     <entry file="file://$PROJECT_DIR$/data/oem.py" />
@@ -706,13 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/smashed_media.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="34" column="85" lean-forward="true" selection-start-line="34" selection-start-column="85" selection-end-line="34" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model/smashed_media.py" />
     <entry file="file://$PROJECT_DIR$/test_Draft/test_bmp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -723,9 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_webdriver.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_webdriver.py" />
     <entry file="file://$PROJECT_DIR$/test_EFL/test_Mentors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-250">
@@ -740,25 +733,10 @@
     <entry file="file://$PROJECT_DIR$/test_RSS/test_General_Rss_Ui.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_FAQ.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_Startups.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_FAQ.py" />
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_Startups.py" />
     <entry file="file://$PROJECT_DIR$/tests_Assurance_realty/test_Steps.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_Mentors_parcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/appium_connection.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -784,13 +762,6 @@
     <entry file="file://$PROJECT_DIR$/fixture/file_manager.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/bmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests_NWF/test_NWF_common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-595">
@@ -812,9 +783,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_alert.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_alert.py" />
     <entry file="file://$PROJECT_DIR$/test_vib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -826,9 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,93 +815,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests_RARE/test_West_Eye/test_Wbec_Pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/work_images.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_android.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests_RARE/test_West_Eye/test_Wbec_Pages.py" />
+    <entry file="file://$PROJECT_DIR$/model/work_images.py" />
+    <entry file="file://$PROJECT_DIR$/test_android.py" />
     <entry file="file://$PROJECT_DIR$/test_ALL_Dev_check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Draft/test_All_For_response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Draft/test_All_For_response.py" />
     <entry file="file://$PROJECT_DIR$/test_Draft/test_Bacon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-505">
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-505" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Draft/test_Images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Draft/test_Difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py">
+    <entry file="file://$PROJECT_DIR$/fixture/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_LInks_goes_through.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_About.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -950,17 +859,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/crawler.py">
+    <entry file="file://$PROJECT_DIR$/tests_Assurance_realty/test_AR_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobilenum.py" />
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_LInks_goes_through.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_IOS_Emulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_EFL_About.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_Mentors_parcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_EFL/test_New_mentors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_RSS/test_Redirects_RSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="18" selection-start-line="6" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/bmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_appium_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_appium_ANdroid_Emulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" selection-start-line="5" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fixture/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="-49">
+          <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Fast_redirects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1570540910644" expanded="true" signature="615:887" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -25,6 +25,8 @@
           <option value="test_RSS.test_Regency_Api.blogposts" />
           <option value="tests_Perfomance.test_HAR.PAGE_ID" />
           <option value="lassie.core.Lassie.all_images" />
+          <option value="mobilenum.mobidriver" />
+          <option value="appium.webdriver.*" />
         </list>
       </option>
     </inspection_tool>

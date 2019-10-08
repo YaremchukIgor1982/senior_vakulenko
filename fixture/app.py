@@ -59,7 +59,7 @@ class App:
         self.driver.implicitly_wait(10)
         self.screen = Screenshot_Clipping.Screenshot()
         self.contact = ContactForm7(self)
-        self.morrocana = Mng(self)
+
 
         self.wbec = Wbec(self)
         self.efl = EFL(self)
@@ -185,7 +185,7 @@ class App:
 
 
 class Emulator(App):
-    options = App.chrome_options
+    options = Options()
     options.add_experimental_option("mobileEmulation", {"deviceName": "iPhone X"})
 
     def __init__(self):
@@ -193,7 +193,7 @@ class Emulator(App):
 
 
 class Headless(App):
-    options = App.chrome_options
+    options = Options()
     options.add_argument("--headless")
 
     def __init__(self):
